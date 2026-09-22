@@ -1,0 +1,2 @@
+# SchedularX
+Exam Timetable generator
