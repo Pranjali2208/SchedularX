@@ -1,0 +1,12 @@
+EXCEL FORMAT UPDATE
+
+1. The downloaded timetable remains ONE Excel workbook.
+2. The workbook contains:
+   - Timetable
+   - Student Roster
+   - One tab for each branch found in the timetable.
+3. Excel row/column gridlines are visible on every sheet.
+4. Thin borders are added to all used cells so rows and columns are clearly separated.
+5. Header rows are bold, centered, wrapped, and kept at a readable height.
+6. Freeze panes and filters remain enabled.
+7. Branch tabs contain only the schedule rows belonging to that branch.
